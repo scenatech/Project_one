@@ -132,8 +132,25 @@ grocery_store.append(user)
 print(grocery_store)
 #-----------------------------------------------------------
 
+grocery_store = ['mango', 'juice','pineapple','apple']
+#Attributes of List
+"""
+count,extend,index,insert,pop,
+remove,reverse,sort,clear,copy
+append,
 
-
+"""
+grocery_store.append('strawberry')
+grocery_store.insert(3, 'juice')
+grocery_store.clear()
+print(grocery_store.index('mango'))
+grocery_store.pop(1)
+grocery_store.remove('apple')
+grocery_store.reverse()
+grocery_store.sort()
+print(grocery_store.count('pineapple'))
+(grocery_store.extend('mango'))
+grocery_store.copy()
 
 
 
