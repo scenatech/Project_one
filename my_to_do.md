@@ -27,3 +27,5 @@
 7. git push =Git command that sends the committed changes in your local repository to a remote repository.
 
 8. git branch = It is a command that is used to display the branch.
+
+9. git pull = Use to pull changes made from github to local machine. 
