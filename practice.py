@@ -77,7 +77,7 @@ user2 = input('Please enter your choice of fruit: ')
 grocery_store.append(user)
 grocery_store.append(user2)
 grocery_store.append(user2)
-
+grocery_store.append(user2)
 
 
 
