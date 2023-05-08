@@ -25,7 +25,3 @@
 6. git commit -m " " =You can also provide a commit message that describes the changes you have made.
 
 7. git push =Git command that sends the committed changes in your local repository to a remote repository.
-
-
-
-
