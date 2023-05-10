@@ -11,23 +11,10 @@ grocery_store = ["mango","juice","pear","pineapple"]
 # print(grocery_store.index('juice'))
 
 
-
-grocery_store.pop(3)
-
-
-
-
-
-
-
-
-
-
+# grocery_store.pop(3)
 
 
 print(grocery_store)
-
-
 
 
 
