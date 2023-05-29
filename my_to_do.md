@@ -28,4 +28,6 @@
 
 8. git branch = It is a command that is used to display the branch.
 
-9. git pull = Use to pull changes made from github to local machine. 
+9. git pull = Use to pull changes made from github to local machine.
+
+10. 
