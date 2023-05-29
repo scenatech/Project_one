@@ -1,4 +1,4 @@
-## Key Topics
+### Key Topics
 
 ✅ enumerate is a built-in function that allows you to iterate over a sequence (such as a list, tuple, or string) and retrieve both the index and the corresponding value of each element in the sequence.
 
