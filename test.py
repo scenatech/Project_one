@@ -27,7 +27,7 @@
 """------------------📝💻Test 2 ---------------------"""
 # Test: Python Data Types and Range
 
-# 1. Create an integer variable named "my_int" and assign any integer value to it.
+# 1. Create an integer variable named for "my_int" and assign any integer value to it.
 
 # 2. Create a float variable named "my_float" and assign any floating-point value to it.
 
@@ -170,3 +170,37 @@
 # 7. Convert "new_range" to a list and assign it to a variable named "my_list".
 
 # 8. Print the elements of "my_list".
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
