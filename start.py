@@ -237,7 +237,25 @@ for i in range(1,user):
     print(i)
 
 
+# Slicing
+my_variable = ('documents')
 
+print(my_variable[4])
+
+print(my_variable[:3])
+print(my_variable[4:])
+
+print(my_variable[-4])
+print(my_variable[-4:])
+
+"""
+# Dictionary is a built-in data structure that stores
+a collection of key-value pairs.
+
+#A dictionary is an unordered collection of elements,where
+each element is stored as key-value pair.
+
+"""
 
 
 #using PRINT function to print students
